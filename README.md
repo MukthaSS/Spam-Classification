@@ -23,7 +23,7 @@ Definition: It measures how important a term is across all documents in the corp
 ##### TF-IDF Calculation:
 TF-IDF is the product of the term frequency and the inverse document frequency
 
-​###### TFIDF(t,d,D)=TF(t,d)×IDF(t,D)
+##### TFIDF(t,d,D)=TF(t,d)×IDF(t,D)
 * This product highlights terms that are frequent in a specific document but infrequent across the entire corpus, making them more significant. 
 
 
